@@ -18,7 +18,7 @@ class Bottomnavbar extends StatelessWidget {
           ),
         ),
         child: BottomNavigationBar(
-          backgroundColor: const Color.fromARGB(255, 126, 123, 114),
+          
           items: const [
             BottomNavigationBarItem(
                 icon: Icon(Icons.account_circle_sharp), label: "Home"),
